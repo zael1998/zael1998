@@ -51,13 +51,7 @@ Aplicación desarrollada para gestionar proyectos de investigación, investigado
 
 ---
 
-## 📊 Estadísticas de GitHub
 
-![Estadísticas de GitHub](https://github-readme-stats.vercel.app/api?username=zael1998&show_icons=true&theme=tokyonight)
-
-![Lenguajes más utilizados](https://github-readme-stats.vercel.app/api/top-langs/?username=zael1998&layout=compact&theme=tokyonight)
-
----
 
 ## 📚 Actualmente aprendiendo
 
