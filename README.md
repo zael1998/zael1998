@@ -1,4 +1,4 @@
-# ¡Hola! 👋 Soy Óscar
+# Óscar Millán | Desarrollador de Software
 
 🎓 Técnico Superior en Desarrollo de Aplicaciones Multiplataforma (DAM).
 
